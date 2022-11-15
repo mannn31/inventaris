@@ -1,0 +1,6 @@
+1. Admin
+   Username : admin
+   Password : admin
+2. Petugas
+   Username : petugas
+   Password : admin
